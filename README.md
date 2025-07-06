@@ -17,7 +17,7 @@ Este repositorio fue creado para mostrar el código que desarrollé durante la e
 
 <div align="justify">
 
-La carpeta <a href="https://github.com/AlfonsoBravoPaneque/TFM--Analisis_RNA-seq_de_celulas_B/tree/main/An%C3%A1lisis_empleando_R" target="_blank">Procesado_datos_crudos_empleado_WSL</a> contiene el <i>script</i> empleado para procesar los datos de secuenciación (archivos FASTQ), hasta obtener la matrtiz de cuenta, que se empleará para loa análisis posteriores reflejados en la carpeta <a href="https://github.com/AlfonsoBravoPaneque/TFM--Analisis_RNA-seq_de_celulas_B/tree/main/An%C3%A1lisis_empleando_R" target="_blank">Análisis_empleando_R</a>.
+La carpeta <a href="https://github.com/AlfonsoBravoPaneque/TFM--Analisis_RNA-seq_de_celulas_B/tree/main/Procesado_datos_crudos_empleado_WSL" target="_blank">Procesado_datos_crudos_empleado_WSL</a> contiene el <i>script</i> empleado para procesar los datos de secuenciación (archivos FASTQ), hasta obtener la matrtiz de cuenta, que se empleará para loa análisis posteriores reflejados en la carpeta <a href="https://github.com/AlfonsoBravoPaneque/TFM--Analisis_RNA-seq_de_celulas_B/tree/main/An%C3%A1lisis_empleando_R" target="_blank">Análisis_empleando_R</a>.
 
 </div>
 
