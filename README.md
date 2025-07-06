@@ -17,7 +17,7 @@ Este repositorio fue creado para mostrar el código que desarrollé durante la e
 
 <div align="justify">
 
-La carpeta <a href="https://github.com/AlfonsoBravoPaneque/TFM--Analisis_RNA-seq_de_celulas_B/tree/main/An%C3%A1lisis_empleando_R" target="_blank">Procesado_datos_crudos_empleado_WSL</a> contiene el <i>script</i> empleado para procesar los datos de secuenciación (archivos FASTQ), hasta obtener la matrtiz de cuenta, que se empleará para loa análisis posteriores reflejados en la carpeta <a href="https://github.com/AlfonsoBravoPaneque/TFM--Analisis_RNA-seq_de_celulas_B/tree/main/An%C3%A1lisis_empleando_R" target="_blank">Análisis_empleando_R</a>.
+La carpeta <a href="https://github.com/AlfonsoBravoPaneque/TFM--Analisis_RNA-seq_de_celulas_B/tree/main/Procesado_datos_crudos_empleado_WSL" target="_blank">Procesado_datos_crudos_empleado_WSL</a> contiene el <i>script</i> empleado para procesar los datos de secuenciación (archivos FASTQ), hasta obtener la matrtiz de cuenta, que se empleará para loa análisis posteriores reflejados en la carpeta <a href="https://github.com/AlfonsoBravoPaneque/TFM--Analisis_RNA-seq_de_celulas_B/tree/main/An%C3%A1lisis_empleando_R" target="_blank">Análisis_empleando_R</a>.
 
 </div>
 
@@ -28,7 +28,7 @@ La carpeta <a href="https://github.com/AlfonsoBravoPaneque/TFM--Analisis_RNA-seq
 <div align="justify">
 
 La carpeta <a href="https://github.com/AlfonsoBravoPaneque/TFM--Analisis_RNA-seq_de_celulas_B/tree/main/An%C3%A1lisis_empleando_R" target="_blank">Análisis_empleando_R</a> contiene los diferentes <i>scripts</i> realizados en R:
-- Procesamiento_datos_y_expresión_diferencial.R: procesado de la matriz de cuentas y análisis de expresión diferencial, en función de la condición experimental, de las subpoblaciones de células B naive, activadas y del centro germinal. Además, tambien contiene el script empleado para realizar los *volcano plots*.
+- Procesamiento_datos_y_expresión_diferencial.R: procesado de la matriz de cuentas y análisis de expresión diferencial, en función de la condición experimental, de las subpoblaciones de células B naive, activadas y del centro germinal. Además, tambien contiene el <i>script</i> empleado para realizar los *volcano plots*.
 - ORA.R: análisis de enriquecimiento funcional de los diferentes genes sobreexpresados, en función de la condición experimental, en las subpoblaciones de células B del centro germinal y activadas.
 - GSEA.R: análisis de enriquecimiento funcional de todos los genes diferencialmente expresados, en función de la condición experimental, en las subpoblaciones de células B del centro germinal y activadas. Previamente, se ordenó estos genes en función del Log2FC.
 - Heatmap.R: mapa de calor de los 100 genes con mayor expresión promedio por tipo celular y condición experimental.
